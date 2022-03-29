@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yozora0
+- 👋 Hi, I’m Yozora, aka Pablo Mourato
 - 👀 I’m interested in web development, web design and Photoshop
 - 🌱 I’m currently learning HTML, CSS, PHP, Javascript
 - 💞️ I’m looking to collaborate on nothing for the moment
