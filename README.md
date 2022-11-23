@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yozora, aka Pablo Mourato
 - 👀 I’m interested in web development, web design and Photoshop
-- 🌱 I’m currently learning HTML, CSS, PHP and Javascript
+- 🌱 I’m currently learning HTML, CSS, PHP, Javascript and Symfony
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me : profesional network under construction
 
