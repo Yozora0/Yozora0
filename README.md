@@ -16,7 +16,7 @@ Welcome to my GitHub! Here, you'll find projects where I experiment with modern 
 - 🎨 I love creating intuitive and elegant UIs
 - ⚡ Performance and accessibility advocate
 - 🔥 Passionate about React, Next.js, UI/UX and AI.
-- 🌱 Currently learning advanced animations with Framer Motion and improving my React knowledge
+- 🌱 Currently learning advanced animations with Framer Motion and improving my React, Angular and Java/Springboot knowledge
 - 🏗️ Building my portfolio 👉 [pablomourato.fr](https://pablomourato.fr)
 
 ## 🛠️ Tech Stack
