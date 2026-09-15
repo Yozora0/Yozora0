@@ -16,8 +16,8 @@ Welcome to my GitHub! Here, you'll find projects where I experiment with modern 
 - 🎨 I love creating intuitive and elegant UIs
 - ⚡ Performance and accessibility advocate
 - 🔥 Passionate about React, Next.js, UI/UX and AI.
-- 🌱 Currently learning advanced animations with Framer Motion and improving my React, Angular and Java/Springboot knowledge
-- 🏗️ Building my portfolio 👉 [pablomourato.fr](https://pablomourato.fr)
+- 🌱 Currently learning Java/Springboot and Python while improving my React, Angular and react native knowledge
+- 🏗️ My portfolio 👉 [pablomourato.fr](https://pablomourato.fr)
 
 ## 🛠️ Tech Stack
 
@@ -33,6 +33,10 @@ Welcome to my GitHub! Here, you'll find projects where I experiment with modern 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
 
 ## 🚀 Featured Projects
 
