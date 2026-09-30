@@ -1,51 +1,66 @@
+<!-- Designed to match pablomourato.fr — assets live in /assets (SVG, light & dark aware) -->
 
+<a href="https://pablomourato.fr"><img src="assets/hero.svg" width="100%" alt="Pablo Correia Mourato — Full-Stack Developer. I design polished interfaces and the APIs that power them. Open to an alternance."/></a>
 
-<!---
-Yozora0/Yozora0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="assets/marquee.svg" width="100%" alt="React · TypeScript · Next.js · Angular · Java · Spring Boot · Python · NestJS · Firebase · Tailwind · Figma · Git"/>
 
-# 👋 Hello, I'm Pablo Correia Mourato!
+<br/><br/>
 
-🚀 **Front-End Developer | Passionate about UX/UI & Web Performance**
+<img src="assets/whoami.svg" width="100%" alt="whoami — From pixel to database. Bachelor Full-Stack at CODA Orléans, BUT MMI at IUT de Troyes, front-end intern at Altermaker. I care about clean UI, UX details, web performance and accessibility. Currently learning Spring Boot, FastAPI, NestJS, React Native and Docker. Looking for an alternance in front-end or full-stack development."/>
 
-Welcome to my GitHub! Here, you'll find projects where I experiment with modern front-end technologies, optimize web performance, and craft user-friendly experiences.
+<br/><br/>
 
-## 📌 About Me
+<img src="assets/title-projects.svg" width="100%" alt="Selected projects — Things I shipped."/>
 
-- 🎨 I love creating intuitive and elegant UIs
-- ⚡ Performance and accessibility advocate
-- 🔥 Passionate about React, Next.js, UI/UX and AI.
-- 🌱 Currently learning Java/Springboot and Python while improving my React, Angular and react native knowledge
-- 🏗️ My portfolio 👉 [pablomourato.fr](https://pablomourato.fr)
+<a href="https://creno-eight.vercel.app"><img src="assets/project-creno.svg" width="100%" alt="01 — Créno: booking app for a local business. Spring Boot, React, TypeScript, PostgreSQL."/></a>
+<p>
+  <a href="https://creno-eight.vercel.app"><img src="assets/btn-live.svg" height="46" alt="Live demo"/></a>&nbsp;
+  <a href="https://github.com/Yozora0/creno"><img src="assets/btn-code.svg" height="46" alt="Source code"/></a>
+</p>
 
-## 🛠️ Tech Stack
+<a href="https://debrief-m8oa.vercel.app"><img src="assets/project-debrief.svg" width="100%" alt="02 — Débrief: real-time retrospective board. NestJS, Socket.IO, React, PostgreSQL."/></a>
+<p>
+  <a href="https://debrief-m8oa.vercel.app"><img src="assets/btn-live.svg" height="46" alt="Live demo"/></a>&nbsp;
+  <a href="https://github.com/Yozora0/debrief"><img src="assets/btn-code.svg" height="46" alt="Source code"/></a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
+<a href="https://quitte-indol.vercel.app"><img src="assets/project-quitte.svg" width="100%" alt="03 — Quitte: expense sharing app. FastAPI, Python, Angular."/></a>
+<p>
+  <a href="https://quitte-indol.vercel.app"><img src="assets/btn-live.svg" height="46" alt="Live demo"/></a>&nbsp;
+  <a href="https://github.com/Yozora0/quitte"><img src="assets/btn-code.svg" height="46" alt="Source code"/></a>
+</p>
 
-## 🚀 Featured Projects
+<a href="https://chocobarou-quiz.web.app"><img src="assets/project-chocobarou.svg" width="100%" alt="04 — Chocobarou Quiz: live quiz for 6 teams. React, Vite, Tailwind, Firebase."/></a>
+<p>
+  <a href="https://chocobarou-quiz.web.app"><img src="assets/btn-live.svg" height="46" alt="Live demo"/></a>&nbsp;
+  <a href="https://github.com/Yozora0?tab=repositories"><img src="assets/btn-repos.svg" height="46" alt="All repositories"/></a>
+</p>
 
-🔹 **[Pokedex React native](https://github.com/Yozora0/pokedex-react-native-main)** – First test of react native with a pokedex app.
+<br/>
 
-🔹 **[Tv show adviser](https://github.com/Yozora0/TV-show-adviser-React)** – TV show adviser in react (from React JS + Redux - Guide du débutant - (Édition 2024) on Udemy)
+<img src="assets/title-toolbox.svg" width="100%" alt="Toolbox — What I build with."/>
 
-## 🌍 Let's Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.correiamourato@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-correiamourato/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://pablomourato.fr)
+<img src="assets/toolbox.svg" width="100%" alt="Front-end: React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind, Sass. Back-end & data: Java, Spring Boot, Python, FastAPI, Node.js, NestJS, PostgreSQL, Firebase. Design & tools: Figma, Git, GitHub, Docker, Vite, Vercel, WordPress."/>
 
+<br/><br/>
+
+<img src="assets/title-stats.svg" width="100%" alt="Activity — Behind the commits."/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yozora0&show_icons=true&hide_rank=false&rank_icon=github&border_radius=20&bg_color=161614&border_color=2A2A27&title_color=C6F432&icon_color=C6F432&text_color=EDEBE4&ring_color=C6F432" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yozora0&layout=compact&langs_count=6&border_radius=20&bg_color=161614&border_color=2A2A27&title_color=C6F432&text_color=EDEBE4" alt="Top languages"/>
+</p>
+
+<br/>
+
+<img src="assets/title-contact.svg" width="100%" alt="Contact — Let's talk."/>
+
+<p>
+  <a href="https://pablomourato.fr"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio — pablomourato.fr"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pablo-correiamourato/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:pablo.correiamourato@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email me"/></a>
+</p>
+
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="Pablo Correia Mourato — 2026"/>
