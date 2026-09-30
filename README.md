@@ -1,12 +1,12 @@
 <!-- Designed to match pablomourato.fr — assets live in /assets (SVG, light & dark aware) -->
 
-<a href="https://pablomourato.fr"><img src="assets/hero.svg" width="100%" alt="Pablo Correia Mourato — Full-Stack Developer. I design polished interfaces and the APIs that power them. Open to an alternance."/></a>
+<a href="https://pablomourato.fr"><img src="assets/hero.svg" width="100%" alt="Pablo Correia Mourato — Full-Stack Developer. I design polished interfaces and the APIs that power them. Open to a full-stack alternance."/></a>
 
 <img src="assets/marquee.svg" width="100%" alt="React · TypeScript · Next.js · Angular · Java · Spring Boot · Python · NestJS · Firebase · Tailwind · Figma · Git"/>
 
 <br/><br/>
 
-<img src="assets/whoami.svg" width="100%" alt="whoami — From pixel to database. Bachelor Full-Stack at CODA Orléans, BUT MMI at IUT de Troyes, front-end intern at Altermaker. I care about clean UI, UX details, web performance and accessibility. Currently learning Spring Boot, FastAPI, NestJS, React Native and Docker. Looking for an alternance in front-end or full-stack development."/>
+<img src="assets/whoami.svg" width="100%" alt="whoami — From pixel to database. Mastère Ingénierie Avancée du Logiciel at ISCOD, BUT MMI at IUT de Troyes, front-end intern at Altermaker. I care about clean UI, UX details, web performance and accessibility. Currently learning Spring Boot, FastAPI, NestJS, React Native and Docker. Looking for a full-stack alternance (4 days in company / 1 day of class)."/>
 
 <br/><br/>
 
